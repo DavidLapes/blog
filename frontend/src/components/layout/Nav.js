@@ -11,15 +11,10 @@ class Nav extends Component {
                 <nav>
                     <ul className="nav-links">
                         <li>
-                            <Link to="/articles">Články</Link>
+                            <Link to="/articles">Articles</Link>
                         </li>
                         <li>
-                            <Link to="/dashboard">O mně</Link>
-                        </li>
-                        <li>
-                            <Link to="/profile">
-                                <button className="nav-button">Můj profil</button>
-                            </Link>
+                            <Link to="/dashboard">About me</Link>
                         </li>
                     </ul>
                 </nav>
