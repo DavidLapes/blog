@@ -2,7 +2,7 @@ import React, {Component} from "react";
 import {BrowserRouter, Route, Redirect, Switch} from "react-router-dom";
 import {connect} from "react-redux";
 import Nav from "./components/layout/Nav";
-import Home from "./components/pages/home/Home";
+import About from "./components/pages/About";
 
 class App extends Component {
     render() {
@@ -10,7 +10,7 @@ class App extends Component {
             <BrowserRouter>
                 <Nav/>
                 <Switch>
-                    <Route exact path="/" component={ Home }/>
+                    <Route exact path="/" component={ About }/>
                     <Redirect from="*" to="/"/>
                 </Switch>
             </BrowserRouter>
