@@ -46,4 +46,18 @@ public class User {
             updatable = false
     )
     private Timestamp timeRegistered;
+
+    @Column(
+            columnDefinition = "DATETIME DEFAULT CURRENT_TIMESTAMP",
+            insertable = false,
+            updatable = false
+    )
+    private Timestamp timeEdited;
+
+    @Column(
+            columnDefinition = "DATETIME DEFAULT CURRENT_TIMESTAMP",
+            insertable = false,
+            updatable = false
+    )
+    private Timestamp timeDeleted;
 }
