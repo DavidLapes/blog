@@ -31,37 +31,216 @@ class About extends Component {
                             <h4>Flexiana - Cognitect</h4>
                             <h5>Senior Software engineer (01/02/2020 - now)</h5>
                             <ul>
-                                <li>Lead seminar classes with 20 students present</li>
-                                <li>Responsible for creating and grading assignments</li>
-                                <li>Helped with preparation of final exams of this class</li>
+                                <li>Member of Cognitect development team</li>
+                                <li>Responsible for UX/UI makeover with highly tight co-operation with UX/UI designer</li>
+                                <li>Finite State Machine</li>
+                                <li>State Chart</li>
+                                <li>Project of Danish Government - Ministry of Taxation</li>
+                                <li>Huge enterprise project</li>
                             </ul>
+                            <div className="about-me-section-tech-stack-container">
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Clojure</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Java</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>ClojureScript</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Reagent</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Re-Frame</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>JavaScript</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Compojure</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Integrant</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Datadog</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>GitHub</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>AWS Lambda</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>AWS CloudWatch</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>AWS ECS</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>AWS RDS</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>AWS Batch</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Leiningen</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>KMD WorkZone</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Jenkins</span>
+                                </div>
+                            </div>
                         </div>
                         <div className="about-me-section-item">
                             <h4>Temify Consulting</h4>
                             <h5>Senior Team Leader (01/11/2018 - 01/04/2020)</h5>
                             <ul>
-                                <li>Lead seminar classes with 20 students present</li>
-                                <li>Responsible for creating and grading assignments</li>
-                                <li>Helped with preparation of final exams of this class</li>
+                                <li>Lead development team of 5 developers</li>
+                                <li>Responsible for pushing CRM producer forward</li>
+                                <li>Attended business meetings</li>
+                                <li>Created multiple business opportunities that were accepted</li>
+                                <li>Moved yearly sales from red numbers to black numbers</li>
+                                <li>Saved the company many customers that were about to leave before I was hired</li>
+                                <li>Successful turnaround of whole product using my strategies</li>
+                                <li>Created highly competitive development team by hiring new members</li>
                             </ul>
+                            <div className="about-me-section-tech-stack-container">
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Clojure</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Java</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>PolymerJS</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>ReactJS</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>JavaScript</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Integrant</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Compojure</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>AWS</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>PostgreSQL</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>GitHub</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Leiningen</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Google API</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>MS Exchange</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>API integration</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Buddy-Auth</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Tomcat</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>CircleCI</span>
+                                </div>
+                            </div>
                         </div>
                         <div className="about-me-section-item">
                             <h4>Home Credit</h4>
                             <h5>Software Engineer (01/09/2018 - 30/11/2018)</h5>
                             <ul>
-                                <li>Lead seminar classes with 20 students present</li>
+                                <li>J</li>
                                 <li>Responsible for creating and grading assignments</li>
                                 <li>Helped with preparation of final exams of this class</li>
                             </ul>
+                            <div className="about-me-section-tech-stack-container">
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Java</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Spring Boot</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Spring Cloud</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Spring JPA</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Spring JDBC</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Spring Security</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Spring Test</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Tomcat</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Oracle</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>SOAP API</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>MapStruct</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Lombok</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Microservices</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>JavaScript</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Enterprise Architect</span>
+                                </div>
+                            </div>
                         </div>
                         <div className="about-me-section-item">
                             <h4>VIP Trust</h4>
                             <h5>Software Engineer (01/02/2018 - 08/31/2018)</h5>
                             <ul>
-                                <li>Lead seminar classes with 20 students present</li>
-                                <li>Responsible for creating and grading assignments</li>
-                                <li>Helped with preparation of final exams of this class</li>
+                                <li>Designed, developed and released whole IoT solution for Raspberry Pi 3B</li>
                             </ul>
+                            <div className="about-me-section-tech-stack-container">
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Python</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Java</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>MySQL</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>JavaScript</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Raspberry Pi</span>
+                                </div>
+                            </div>
                         </div>
                         <div className="about-me-section-item">
                             <h4>Teaching Assistant in Advanced Java classes</h4>
@@ -80,6 +259,23 @@ class About extends Component {
                                 <li>Learned how to use Selenium and WebDriver</li>
                                 <li>Experienced agile for the first time in real job</li>
                             </ul>
+                            <div className="about-me-section-tech-stack-container">
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Java</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Spring Boot</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Tomcat</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>Selenium</span>
+                                </div>
+                                <div className="about-me-section-tech-stack-item">
+                                    <span>JavaScript</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div className="about-me-section">
@@ -311,6 +507,10 @@ class About extends Component {
 
                             <div className="about-me-section-tech-stack-item">
                                 <span>Arduino</span>
+                            </div>
+
+                            <div className="about-me-section-tech-stack-item">
+                                <span>Python</span>
                             </div>
 
                             <div className="about-me-section-tech-stack-item">
