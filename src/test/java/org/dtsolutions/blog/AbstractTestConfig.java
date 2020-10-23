@@ -1,0 +1,15 @@
+package org.dtsolutions.blog;
+
+import jdk.nashorn.internal.ir.annotations.Ignore;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.ContextConfiguration;
+import org.springframework.test.context.junit4.SpringRunner;
+
+@Ignore
+@SpringBootTest
+@RunWith(SpringRunner.class)
+@ContextConfiguration(classes = BlogBoot.class)
+abstract class AbstractTestConfig {
+
+}
