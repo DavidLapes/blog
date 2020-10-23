@@ -1,0 +1,8 @@
+{
+  "short_name": "D&T Solutions - Blog",
+  "name": "D&T Solutions - Blog",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
