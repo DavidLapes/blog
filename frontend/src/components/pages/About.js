@@ -166,7 +166,6 @@ class About extends Component {
                             <h4>Home Credit</h4>
                             <h5>Software Engineer (01/09/2018 - 30/11/2018)</h5>
                             <ul>
-                                <li>J</li>
                                 <li>Responsible for creating and grading assignments</li>
                                 <li>Helped with preparation of final exams of this class</li>
                             </ul>
